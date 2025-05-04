@@ -4,7 +4,7 @@ import { FaAnglesDown } from "react-icons/fa6";
 const Home = () => {
 
   return (
-    <div id='home' className='w-[90%] pb-40 pt-70 m-auto'>
+    <div id='home' className='w-[90%] pb-40 pt-60 m-auto'>
       <h1 className='text-5xl text-center text-[#1e69ff] font-semibold sm:text-3xl'>
         Shahriyor <span className='text-gray-600'>Toshmurodov</span>
       </h1>
