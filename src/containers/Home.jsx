@@ -5,7 +5,7 @@ const Home = () => {
 
   return (
     <div id='home' className='w-[90%] pb-40 pt-70 m-auto'>
-      <h1 className='text-6xl text-center text-[#1e69ff] font-semibold sm:text-4xl'>
+      <h1 className='text-5xl text-center text-[#1e69ff] font-semibold sm:text-3xl'>
         Shahriyor <span className='text-gray-600'>Toshmurodov</span>
       </h1>
       <p className='text-4xl text-center text-gray-800  font-light mt-4'>Frontend Developer</p>
